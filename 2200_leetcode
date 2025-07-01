@@ -1,0 +1,28 @@
+class Solution {
+public:
+    vector<int> findKDistantIndices(vector<int>& nums, int key, int k) {
+        vector<int> key_v; 
+        vector<int> result; 
+
+        // Find all indices where nums[i] == key
+        for (int i = 0; i < nums.size(); i++) {
+            if (nums[i] == key) {
+                key_v.push_back(i);
+            }
+        }
+
+        // For each index, check if it's within distance k from any key index
+        for (int i = 0; i < nums.size(); i++) {
+            for (int j = 0; j < key_v.size(); j++) {
+                if (abs(i - key_v[j]) <= k) {
+                    result.push_back(i);
+                    break; // No need to check further once condition is met
+                }
+            }
+        }
+
+        // Remove duplicates using set (though break avoids duplicates)
+        sort(result.begin(), result.end()); // Optional if break used
+        return result;
+    }
+};
