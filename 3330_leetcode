@@ -1,0 +1,15 @@
+space complexity = O(1)
+time complexity  =  O(n) 
+
+class Solution {
+public:
+    int possibleStringCount(string word) {    
+        int result = 1;
+        for (int a = 0 ; a<word.size()-1; a++) {
+           if(word[a] == word[a+1]){
+            result += 1; 
+           }
+        }
+        return result;
+    }
+};
