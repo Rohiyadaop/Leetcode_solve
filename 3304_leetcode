@@ -1,0 +1,24 @@
+class Solution {
+public:
+    char kthCharacter(long long k) {
+        string word = "a";
+        string result = "";
+
+        while (result.size() < k) {
+            result = "";
+            for (int i = 0; i < word.size(); i++) {
+                if (word[i] != 'z') {
+                    char nextChar = word[i] + 1;
+                    result += nextChar;
+                } else {
+                    word[i] = 'a';
+                    result += 'a';
+                }
+            }
+            result = word + result;
+            word = result;
+        }
+
+        return result[k - 1];
+    }
+};
