@@ -1,0 +1,28 @@
+time c = O(nlogn)
+space c = O(n)
+
+
+class Solution {
+public:
+    int findLucky(vector<int>& arr) {
+        unordered_map<int, int> map; 
+        vector<int> ans; 
+
+        for (int i = 0; i < arr.size(); i++) {
+            map[arr[i]] += 1;
+        }
+
+        for (auto pair : map) {
+            if (pair.first == pair.second) {
+                ans.push_back(pair.first);
+            }
+        }
+
+        if (ans.size() == 0) {
+            return -1; // No lucky number found
+        } else {
+            sort(ans.begin(), ans.end());
+            return ans.back(); // Return the largest lucky number
+        }
+    }
+};
