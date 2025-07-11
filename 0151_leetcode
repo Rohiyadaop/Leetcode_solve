@@ -1,0 +1,22 @@
+class Solution {
+public:
+    string reverseWords(string s) {
+        istringstream iss(s);
+        string res; 
+        string word ;
+        int i = 0 ;
+        vector <string> AllWord;
+        while(iss >> word ){
+            AllWord.push_back(word);
+        }
+        reverse(AllWord.begin(), AllWord.end());
+        for(string itis : AllWord){
+            res += itis ;
+            if(i< AllWord.size()-1){
+                res += " ";
+            }
+            i++;
+        }
+        return res ;
+    }
+};
