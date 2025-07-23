@@ -1,0 +1,60 @@
+class Solution {
+    string forab(string s, int x , int& score) {
+        string result;
+        stack<char> st;
+        st.push(s[0]);
+
+        for (int i = 1; i < s.length(); i++) {
+            if (!st.empty() && st.top() == 'a' && s[i] == 'b') {
+                st.pop();
+                score += x;
+            } else {
+                st.push(s[i]);
+            }
+        }
+
+        while (!st.empty()) {
+            result += st.top();
+            st.pop();
+        }
+        reverse(result.begin(), result.end());
+        return result;
+    }
+
+    string forba(string s, int x , int& score) {
+        string result;
+        stack<char> st;
+        st.push(s[0]);
+
+        for (int i = 1; i < s.length(); i++) {
+            if (!st.empty() && st.top() == 'b' && s[i] == 'a') {
+                st.pop();
+                score += x;
+            } else {
+                st.push(s[i]);
+            }
+        }
+
+        while (!st.empty()) {
+            result += st.top();
+            st.pop();
+        }
+        reverse(result.begin(), result.end());
+        return result;
+    }
+
+public:
+    int maximumGain(string s, int x, int y) {
+        int max1 = 0, max2 = 0;
+
+        // Try removing "ab" first
+        string s1 = forab(s, x, max1);
+        string s2 = forba(s1, y, max1);
+
+        // Try removing "ba" first
+        string s3 = forba(s, y, max2);
+        string s4 = forab(s3, x, max2);
+
+        return max(max1, max2);
+    }
+};
