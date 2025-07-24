@@ -1,0 +1,16 @@
+class Solution {
+public:
+    bool uniqueOccurrences(vector<int>& arr) {
+        unordered_map<int,int> map  ;
+        vector<int> occ1;
+        set <int> occ2; 
+        for(auto it : arr){
+            map[it]++;
+        }
+        for(auto it : map){
+            occ1.push_back(it.second);
+            occ2.insert(it.second);
+        }
+        return (occ1.size()==occ2.size());
+    }
+};
