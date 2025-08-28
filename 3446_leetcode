@@ -1,0 +1,44 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+class Solution {
+public:
+    vector<vector<int>> sortMatrix(vector<vector<int>>& grid) {
+        int n = grid.size();
+        vector<vector<int>> ans = grid;  // Start with original matrix
+
+        // Sort lower-left diagonals (including main diagonal) in decreasing order
+        for (int startRow = 0; startRow < n; startRow++) {
+            vector<int> diag;
+            int r = startRow, c = 0;
+            while (r < n && c < n) {
+                diag.push_back(grid[r][c]);
+                r++; c++;
+            }
+            sort(diag.begin(), diag.end(), greater<int>());
+            r = startRow; c = 0;
+            for (int k = 0; k < diag.size(); k++) {
+                ans[r][c] = diag[k];
+                r++; c++;
+            }
+        }
+
+        // Sort upper-right diagonals (excluding main diagonal) in increasing order
+        for (int startCol = 1; startCol < n; startCol++) {
+            vector<int> diag;
+            int r = 0, c = startCol;
+            while (r < n && c < n) {
+                diag.push_back(grid[r][c]);
+                r++; c++;
+            }
+            sort(diag.begin(), diag.end());
+            r = 0; c = startCol;
+            for (int k = 0; k < diag.size(); k++) {
+                ans[r][c] = diag[k];
+                r++; c++;
+            }
+        }
+
+        return ans;
+    }
+};
