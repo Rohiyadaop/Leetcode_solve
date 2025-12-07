@@ -1,0 +1,13 @@
+class Solution {
+public:
+    int countOdds(int low, int high) {
+        int totalnum = high - low +1 ; 
+        int ans = totalnum/2 ; 
+        if(totalnum%2 != 0 ){
+            if(low%2 != 0 || high %2 != 0 ){
+                ans++ ; 
+            }
+        }
+        return ans ;
+            }
+};
