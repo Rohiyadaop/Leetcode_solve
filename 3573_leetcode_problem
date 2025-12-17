@@ -1,0 +1,51 @@
+class Solution {
+public:
+    long long maximumProfit(vector<int>& prices, int k) {
+
+        int n = prices.size();
+        if (n == 0 || k == 0) return 0;   
+
+        const long long NEG = -1e18;
+
+        vector<vector<vector<long long>>> dp(
+            n, vector<vector<long long>>(k + 1, vector<long long>(3, NEG))
+        );
+
+        dp[0][0][0] = 0;
+        dp[0][0][1] = -prices[0];   
+        dp[0][0][2] = prices[0];    
+
+        for (int i = 1; i < n; i++) {
+            for (int t = 0; t <= k; t++) {
+
+                // no position
+                dp[i][t][0] = dp[i-1][t][0];
+                if (t > 0) {
+                    dp[i][t][0] = max(dp[i][t][0],
+                        dp[i-1][t-1][1] + prices[i]); // close long
+                    dp[i][t][0] = max(dp[i][t][0],
+                        dp[i-1][t-1][2] - prices[i]); // close short
+                }
+
+                // holding long
+                dp[i][t][1] = max(
+                    dp[i-1][t][1],
+                    dp[i-1][t][0] - prices[i]
+                );
+
+                // holding short
+                dp[i][t][2] = max(
+                    dp[i-1][t][2],
+                    dp[i-1][t][0] + prices[i]
+                );
+            }
+        }
+
+        long long ans = 0;
+        for (int t = 0; t <= k; t++) {
+            ans = max(ans, dp[n-1][t][0]);
+        }
+
+        return ans;
+    }
+};
