@@ -1,0 +1,92 @@
+class Solution {
+    public int countBinarySubstrings(String s) {
+        int n = s.length();
+        
+        int prevGroup = 0;
+        int currGroup = 1;
+        int ans = 0;
+        
+        for (int i = 1; i < n; i++) {
+            if (s.charAt(i) == s.charAt(i - 1)) {
+                currGroup++;
+            } else {
+                ans += Math.min(prevGroup, currGroup);
+                prevGroup = currGroup;
+                currGroup = 1;
+            }
+        }
+        
+        ans += Math.min(prevGroup, currGroup);
+        return ans;
+    }
+}
+
+
+
+
+in cpp with TLE example ****************************************************
+
+// class Solution {
+
+// public:
+//     bool check(int i , int  j  , string s ){
+//         int size = j-i+1; 
+//         int count1= 0 ; 
+//         int count2 = 0 ; 
+//         for(int i = 0; i<size/2; i++){
+//             if(s[i]=='0'){
+//                 count1++; 
+//             }
+//             if(s[i]=='1'){
+//                 count2++; 
+//             }
+//         }
+//         if(count1 == size/2 || count2 == size/2){
+//             return true ; 
+//         }
+//         return false ; 
+//     }
+//     int countBinarySubstrings(string s) {
+//         int n = s.size(); 
+//         int ans = 0 ; 
+//         for(int i = 0 ;i<n; i++){
+//             for(int j = i+1 ;j<n; i++){
+//                 bool flag = check(i,j,s);
+//                 if(flag){
+//                     ans++;
+//                 }
+//             }
+//         }
+//         return ans ; 
+//     }
+// };
+
+
+class Solution {
+public:
+    int countBinarySubstrings(string s) {
+        int n = s.size();
+        
+        int prevGroup = 0;
+        int currGroup = 1;
+        int ans = 0;
+        
+        for(int i = 1; i < n; i++){
+            if(s[i] == s[i-1]){
+                currGroup++;
+            }
+            else{
+                ans += min(prevGroup, currGroup);
+                prevGroup = currGroup;
+                currGroup = 1;
+            }
+        }
+        
+        ans += min(prevGroup, currGroup);
+        return ans;
+    }
+};
+
+
+
+
