@@ -18,6 +18,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/3524-find-x-value-of-array-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -40,6 +41,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/0049-group-anagrams/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -53,4 +55,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/0032-longest-valid-parentheses/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/0032-longest-valid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
