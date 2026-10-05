@@ -45,6 +45,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/0049-group-anagrams/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/0856-score-of-parentheses/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,11 +60,13 @@
 | [0022-generate-parentheses](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/0856-score-of-parentheses/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/0856-score-of-parentheses/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
