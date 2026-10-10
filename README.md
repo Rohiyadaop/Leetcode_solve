@@ -7,6 +7,7 @@
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/0049-group-anagrams/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Math
@@ -30,6 +31,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +53,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/0049-group-anagrams/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,4 +78,9 @@
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 <!---LeetCode Topics End-->
