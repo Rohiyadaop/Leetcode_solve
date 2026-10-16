@@ -10,6 +10,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -32,6 +33,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,8 +101,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 <!---LeetCode Topics End-->
