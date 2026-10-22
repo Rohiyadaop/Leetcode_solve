@@ -16,6 +16,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
