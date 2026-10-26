@@ -15,6 +15,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Math
@@ -127,6 +128,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,4 +149,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 <!---LeetCode Topics End-->
