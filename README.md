@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/0049-group-anagrams/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -24,6 +25,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
