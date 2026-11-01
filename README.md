@@ -5,6 +5,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/0039-combination-sum/) | Medium |
 | [0049-group-anagrams](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/0049-group-anagrams/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -84,6 +85,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/0022-generate-parentheses/) | Medium |
+| [0039-combination-sum](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/0039-combination-sum/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
