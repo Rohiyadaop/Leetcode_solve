@@ -11,6 +11,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -61,6 +62,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Sliding Window
@@ -90,6 +92,7 @@
 | [0049-group-anagrams](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/0056-merge-intervals/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
@@ -224,4 +227,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 <!---LeetCode Topics End-->
