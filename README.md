@@ -51,6 +51,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/3693-climbing-stairs-ii/) | Medium |
@@ -92,6 +93,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
@@ -243,6 +245,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
