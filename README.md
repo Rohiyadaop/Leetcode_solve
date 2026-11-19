@@ -16,6 +16,7 @@
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -105,6 +106,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -135,6 +137,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
