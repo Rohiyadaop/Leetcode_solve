@@ -96,6 +96,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Rohiyadaop/Leetcode_solve/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
